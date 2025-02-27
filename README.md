@@ -19,7 +19,14 @@ Olá! Eu sou o Gabriel 👋
   <a href="https://www.linkedin.com/in/gabriel-cunhas/" title="LinkedIn"> 
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> 
   </a> 
-  <a href="https://github.com/GabrielCunhaSTS/" title="GitHub"> 
+  <a href="https://github.com/GabrielCunhaSTS" title="GitHub"> 
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
   </a> 
 </p>
+
+### Contagem de Commits
+
+![GitHub Commits](https://img.shields.io/github/commits-since/GabrielCunhaSTS/GITHUB-REPOSITORY/last?label=Commits&color=black&style=flat-square)
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielCunhaSTS&theme=dark&show_icons=true&hide=contribs,issues" width="53%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhaSTS&theme=dark&layout=compact" width="40%" /> 
