@@ -19,7 +19,7 @@ Olá! Eu sou o Gabriel 👋
   <a href="https://www.linkedin.com/in/gabriel-cunhas/" title="LinkedIn"> 
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> 
   </a> 
-  <a href="https://github.com/SEU-GITHUB" title="GitHub"> 
+  <a href="https://github.com/GabrielCunhaSTS/" title="GitHub"> 
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
   </a> 
 </p>
