@@ -13,7 +13,7 @@ Olá! Eu sou o Gabriel 👋
 </p>
 📫 Como me encontrar?
 <p align="left"> 
-  <a href="mailto:cunhagabriel.de@gmail.com" title="Gmail"> 
+  <a href="mailto:cunhagabriel.dev@gmail.com" title="Gmail"> 
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> 
   </a> 
   <a href="https://www.linkedin.com/in/gabriel-cunhas/" title="LinkedIn"> 
