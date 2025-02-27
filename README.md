@@ -24,9 +24,5 @@ Olá! Eu sou o Gabriel 👋
   </a> 
 </p>
 
-### Contagem de Commits
-
-![GitHub Commits](https://img.shields.io/github/commits-since/GabrielCunhaSTS/GITHUB-REPOSITORY/last?label=Commits&color=black&style=flat-square)
-
 <img src="https://github-readme-stats.vercel.app/api?username=GabrielCunhaSTS&theme=dark&show_icons=true&hide=contribs,issues" width="53%" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhaSTS&theme=dark&layout=compact" width="40%" /> 
