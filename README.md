@@ -39,6 +39,22 @@ Sempre busco criar aplicações com foco em:
 
 ---
 
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielCunhaSTS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhaSTS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GabrielCunhaSTS&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 # 🚀 Projetos em Destaque
 
 ## 🏠 ReUni
@@ -154,17 +170,6 @@ Tecnologias
 📧 Email: ggabrielcunha06@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/gabrielcunhaalmeida
-
-💻 GitHub: https://github.com/GabrielCunhaSTS
-
-
----
-
-<div align="center">
-
-### Obrigado pela visita! 🚀
-
-</div>
 
 💻 GitHub: https://github.com/GabrielCunhaSTS
 
