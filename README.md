@@ -67,30 +67,6 @@ Sistema completo para gerenciamento e busca de repúblicas estudantis.
 
 ---
 
-## ⚖️ Website Institucional para Advocacia
-
-Landing Page moderna desenvolvida para escritórios de advocacia.
-
-### Tecnologias
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-
-**Destaques**
-
-- Design Premium
-- SEO
-- Responsivo
-- Alto desempenho
-- Interface moderna
-
-🔗 Repositório: 
-
----
-
 ## 🔗 APIs REST
 
 Coleção de APIs desenvolvidas em Node.js.
