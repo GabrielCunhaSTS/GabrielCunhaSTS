@@ -1,28 +1,168 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-Olá! Eu sou o Gabriel 👋
-<p align="left"> Sou um desenvolvedor backend júnior apaixonado por tecnologia. Tenho 18 anos, sou formado como técnico em Desenvolvimento de Sistemas e atualmente estou cursando Sistemas para Internet. 🚀 Atuo principalmente no desenvolvimento backend, criando soluções escaláveis e eficientes para aplicações web e mobile. </p> 
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> 
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> 
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> 
-  <img src="https://skillicons.dev/icons?i=react" alt="React" /> 
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" /> 
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" /> 
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> 
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> 
-</p>
-📫 Como me encontrar?
-<p align="left"> 
-  <a href="mailto:cunhagabriel.dev@gmail.com" title="Gmail"> 
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/> 
-  </a> 
-  <a href="https://www.linkedin.com/in/gabriel-cunhas/" title="LinkedIn"> 
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a> 
-  <a href="https://github.com/GabrielCunhaSTS" title="GitHub"> 
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
-  </a> 
+<div align="center">
+
+# Gabriel Cunha 👋
+
+### Full Stack Developer
+
+Desenvolvendo aplicações web modernas utilizando **React, Next.js, Node.js, TypeScript e MySQL**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
+
+</div>
+
+---
+
+# 👨‍💻 Sobre mim
+
+Sou desenvolvedor **Full Stack** apaixonado por tecnologia e desenvolvimento de soluções web.
+
+Atualmente curso **Sistemas para Internet** e desenvolvo aplicações completas, desde a modelagem do banco de dados até interfaces modernas e responsivas.
+
+Tenho experiência com:
+
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
+- APIs REST
+- Banco de Dados
+- Landing Pages
+- Sistemas Web
+
+Sempre busco criar aplicações com foco em:
+
+- Performance
+- Escalabilidade
+- Boa experiência do usuário
+- Código limpo
+- Interfaces modernas
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🏠 ReUni
+
+Sistema completo para gerenciamento e busca de repúblicas estudantis.
+
+### Tecnologias
+
+- React
+- Node.js
+- Express
+- Sequelize
+- MySQL
+
+**Funcionalidades**
+
+- Login
+- Cadastro
+- Upload de imagens
+- Favoritos
+- Comentários
+- Busca dinâmica
+- Perfil do usuário
+
+🔗 Repositório: LINK
+
+---
+
+## ⚖️ Website Institucional para Advocacia
+
+Landing Page moderna desenvolvida para escritórios de advocacia.
+
+### Tecnologias
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+**Destaques**
+
+- Design Premium
+- SEO
+- Responsivo
+- Alto desempenho
+- Interface moderna
+
+🔗 Repositório: LINK
+
+---
+
+## 🔗 APIs REST
+
+Coleção de APIs desenvolvidas em Node.js.
+
+Tecnologias
+
+- Node.js
+
+- Express
+
+- MySQL
+
+- JWT
+
+- Sequelize
+
+---
+
+# 🛠️ Tecnologias
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielCunhaSTS&theme=dark&show_icons=true&hide=contribs,issues" width="53%" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhaSTS&theme=dark&layout=compact" width="40%" /> 
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,cs"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielCunhaSTS&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhaSTS&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+📧 Email: SEU_EMAIL
+
+💼 LinkedIn: SEU_LINKEDIN
+
+💻 GitHub: https://github.com/GabrielCunhaSTS
+
+🌐 Portfólio: LINK
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+</div>
