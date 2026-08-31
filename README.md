@@ -38,7 +38,7 @@ Atualmente curso **Sistemas para Internet** e desenvolvo aplicações completas,
 Sistema completo para gerenciamento e busca de repúblicas estudantis.
 - **Tecnologias:** React, Node.js, Express, Sequelize, MySQL
 - **Funcionalidades:** Login/Cadastro, Upload de imagens, Favoritos, Comentários, Busca dinâmica e Perfil do usuário.
-- 🔗 **Repositório:** *(insira o link aqui)*
+- 🔗 **Repositório:** *[ReUni](https://github.com/GabrielCunhaSTS/Re-Uni)*
 
 ### 🔗 APIs REST
 Coleção de APIs robustas desenvolvidas para diversas aplicações.
@@ -67,18 +67,13 @@ Coleção de APIs robustas desenvolvidas para diversas aplicações.
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielCunhaSTS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCunhaSTS&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GabrielCunhaSTS&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielCunhaSTS&theme=tokyonight&no-frame=true&row=1" />
-</div>
+
 
 ---
 
